@@ -1,0 +1,899 @@
+# Translation of Themes - Astrid in Japanese
+# This file is distributed under the same license as the Themes - Astrid package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-04 10:10:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Astrid\n"
+
+#. Theme Name of the plugin/theme
+msgid "Astrid"
+msgstr "Astrid"
+
+#. Description of the plugin/theme
+msgid "Astrid can help you to quickly create an awesome business website. All the features you need are waiting for you in this business theme: color options, fonts, full width header image, custom widgets, blog options and many other interesting and useful options."
+msgstr "Astrid (アストリッド) は立派なビジネスサイトをすばやく作成するのを手助けしてくれます。このビジネステーマには、カラーオプション、フォント、全幅ヘッダー画像、カスタムウィジェット、ブログオプション、その他多くの面白くて便利なオプションなどの必要な機能が含まれています。"
+
+#: inc/customizer.php:61 inc/customizer.php:83
+msgid "Video"
+msgstr "動画"
+
+#: inc/demo-content/setup.php:15
+msgid "Demo content"
+msgstr "デモコンテンツ"
+
+#: inc/demo-content/setup.php:56
+msgid "Welcome to Astrid"
+msgstr "Astrid へようこそ"
+
+#: inc/demo-content/setup.php:55
+msgid "5 minute setup"
+msgstr "5分間セットアップ"
+
+#: inc/demo-content/setup.php:57
+msgid "Explore"
+msgstr "もっと見る"
+
+#. Template Name of the plugin/theme
+msgid "Single Pricing Table"
+msgstr "個別価格テーブル"
+
+#. Template Name of the plugin/theme
+msgid "Single Timeline Event"
+msgstr "個別タイムラインイベント"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "全幅"
+
+#: inc/framework/widgets/front-testimonials.php:33
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "表示するお客様の声の数 (-1ですべて表示):"
+
+#: inc/framework/widgets/front-testimonials.php:39
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "ボタンの URL [お客様の声ブロックの下にボタンを設置する場合]"
+
+#: inc/framework/widgets/social-widget.php:62
+msgid "Select your social menu:"
+msgstr "ソーシャルメニューを選択:"
+
+#: inc/framework/widgets/social-widget.php:64
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 選択 &mdash;"
+
+#: inc/framework/widgets/front-skills.php:7
+msgid "Show your visitors some of your skills."
+msgstr "あなたのスキルを訪問者に紹介します。"
+
+#: inc/framework/widgets/front-skills.php:33
+msgid "First skill name"
+msgstr "1つ目のスキル名"
+
+#: inc/framework/widgets/front-skills.php:38
+msgid "First skill value"
+msgstr "1つ目のスキル値"
+
+#: inc/framework/widgets/front-skills.php:44
+msgid "Second skill name"
+msgstr "1つ目のスキル名"
+
+#: inc/framework/widgets/front-skills.php:49
+msgid "Second skill value"
+msgstr "2つ目のスキル値"
+
+#: inc/framework/widgets/front-skills.php:55
+msgid "Third skill name"
+msgstr "3つ目のスキル名"
+
+#: inc/framework/widgets/front-skills.php:60
+msgid "Third skill value"
+msgstr "3つ目のスキル値"
+
+#: inc/framework/widgets/front-skills.php:66
+msgid "Fourth skill name"
+msgstr "4つ目のスキル名"
+
+#: inc/framework/widgets/front-skills.php:71
+msgid "Fourth skill value"
+msgstr "4つ目のスキル値"
+
+#: inc/framework/widgets/social-widget.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "メニューはまだ作成されていません。<a href=\"%s\">作成する</a>。"
+
+#: inc/framework/widgets/posts-widget.php:116
+#: inc/framework/widgets/social-widget.php:57
+msgid "Title:"
+msgstr "タイトル:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: inc/template-tags.php:36
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: template-parts/content-page.php:28 template-parts/content.php:58
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: inc/framework/widgets/front-skills.php:8
+msgid "Astrid FP: Skills"
+msgstr "Astrid FP: スキル"
+
+#: inc/framework/widgets/social-widget.php:6
+msgid "Astrid: Social Profile"
+msgstr "Astrid: ソーシャルプロフィール"
+
+#: inc/framework/widgets/posts-widget.php:12
+msgid "Astrid: Recent Posts"
+msgstr "Astrid: 最近の投稿"
+
+#: template-parts/content.php:52
+msgid "Read more"
+msgstr "もっと読む"
+
+#: inc/framework/widgets/posts-widget.php:119
+msgid "Number of posts to show:"
+msgstr "表示する投稿数:"
+
+#: inc/framework/widgets/front-skills.php:77
+msgid "Fifth skill name"
+msgstr "5つ目のスキル名"
+
+#: inc/framework/widgets/front-skills.php:82
+msgid "Fifth skill value"
+msgstr "5つ目のスキル値"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:62 template-parts/content-page.php:39
+msgid "Edit %s"
+msgstr "%s を編集する"
+
+#: inc/framework/widgets/video-widget.php:7
+msgid "Astrid: Video"
+msgstr "Astrid: 動画"
+
+#: inc/framework/widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Youtube、Vimeo などの動画を表示します。"
+
+#: inc/framework/widgets/video-widget.php:21
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "動画の URL を貼り付けます (Youtube, Vimeo など、オンライン上の oEmbed 対応 URL に限る):"
+
+#. Template Name of the plugin/theme
+msgid "Widgetized"
+msgstr "ウィジェット化"
+
+#: inc/framework/widgets/posts-widget.php:123
+msgid "Display post date?"
+msgstr "投稿日を表示する"
+
+#: inc/framework/widgets/social-widget.php:5
+msgid "Display your social profile"
+msgstr "ソーシャルプロフィールを表示する"
+
+#: inc/framework/widgets/front-testimonials.php:11
+msgid "Display your testimonials."
+msgstr "お客様の声を表示する"
+
+#: inc/framework/widgets/front-testimonials.php:12
+msgid "Astrid FP: Testimonials"
+msgstr "Astrid FP: お客様の声"
+
+#: inc/framework/widgets/social-widget.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance etc."
+msgstr "ウィジェットに SNS アイコンを入力するには、<strong>「外観」>「メニュー」</strong>で SNS プロフィールのリンクを含むメニューを作成し、ここにメニューを登録します。対応するネットワーク: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: inc/framework/widgets/posts-widget.php:11
+msgid "Recent posts with thumbnails"
+msgstr "サムネイル付きの最近の投稿"
+
+#: inc/framework/widgets/front-testimonials.php:148
+msgid "See all our testimonials"
+msgstr "お客様の声をすべて表示"
+
+#: inc/framework/widgets/front-testimonials.php:41
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "ボタンのテキスト [空欄の場合、デフォルトの「お客様の声をすべて表示」になります]"
+
+#: inc/framework/widgets/front-services.php:143
+msgid "See all our services"
+msgstr "サービスをすべて表示"
+
+#: inc/framework/widgets/front-services.php:40
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "ボタンのテキスト [空欄の場合、デフォルトの「サービスをすべて表示」になります]"
+
+#: inc/framework/widgets/front-testimonials.php:28
+msgid "Tip: to rearrange the testimonials order, edit each testimonial page and add a value in Page Attributes > Order"
+msgstr "ヒント: お客様の声の順序を並べ替えるには、各お客様の声のページを編集して「ページ属性 > 順序」に値を追加してください"
+
+#. Template Name of the plugin/theme
+msgid "Single Employee"
+msgstr "個別スタッフ"
+
+#. Template Name of the plugin/theme
+msgid "Single Service"
+msgstr "個別サービス"
+
+#. Template Name of the plugin/theme
+msgid "Single Testimonial"
+msgstr "個別の「お客様の声」"
+
+#. Template Name of the plugin/theme
+msgid "Single Project"
+msgstr "個別プロジェクト"
+
+#: inc/framework/widgets/front-testimonials.php:35
+msgid "Offset (number of testimonials needs to be different than -1 for this option to work):"
+msgstr "オフセット (このオプションが動作するには「お客様の声」の数の差異が -1 以外である必要があります):"
+
+#: inc/framework/widgets/front-testimonials.php:27
+msgid "This widget displays all pages that have the Single Testimonial page template assigned to them."
+msgstr "このウィジェットは、個別の「お客様の声」ページのテンプレートが割り当てられているすべてのページを表示します。"
+
+#. Template Name of the plugin/theme
+msgid "Single Client"
+msgstr "個別クライアント"
+
+#: functions.php:132
+msgid "Page - "
+msgstr "ページ -"
+
+#: inc/framework/widgets/front-projects.php:33
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "表示するプロジェクト数 (-1ですべて表示):"
+
+#: inc/framework/widgets/front-services.php:11
+msgid "Show what services you are able to provide."
+msgstr "どのようなサービスを提供しているか表示します。"
+
+#: inc/framework/widgets/front-services.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "表示するサービス数 (-1ですべて表示):"
+
+#: inc/framework/widgets/front-services.php:38
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "ボタンの URL [サービスブロックの下にボタンを設置する場合]"
+
+#: inc/framework/widgets/front-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "会社にまつわるデータを訪問者に紹介します。"
+
+#: inc/framework/widgets/front-facts.php:28
+msgid "You can find a list of the available icons "
+msgstr "利用可能なアイコンを探しましょう。"
+
+#: inc/framework/widgets/front-facts.php:28
+msgid "here."
+msgstr "こちらから。"
+
+#: inc/framework/widgets/front-facts.php:28
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "使用例：<strong>fa-android</strong>"
+
+#: inc/framework/widgets/front-facts.php:36
+msgid "First fact name"
+msgstr "1つ目のデータ名"
+
+#: inc/framework/widgets/front-facts.php:41
+msgid "First fact value"
+msgstr "1つ目のデータ内容"
+
+#: inc/framework/widgets/front-facts.php:46
+msgid "First fact icon"
+msgstr "1つ目のデータ用アイコン"
+
+#: inc/framework/widgets/front-facts.php:52
+msgid "Second fact name"
+msgstr "2つ目のデータ名"
+
+#: inc/framework/widgets/front-facts.php:57
+msgid "Second fact value"
+msgstr "2つ目のデータ内容"
+
+#: inc/framework/widgets/front-facts.php:62
+msgid "Second fact icon"
+msgstr "2つ目のデータ用アイコン"
+
+#: inc/framework/widgets/front-facts.php:68
+msgid "Third fact name"
+msgstr "3つ目のデータ名"
+
+#: inc/framework/widgets/front-facts.php:73
+msgid "Third fact value"
+msgstr "3つ目のデータ内容"
+
+#: inc/framework/widgets/front-facts.php:78
+msgid "Third fact icon"
+msgstr "3つ目のデータ用アイコン"
+
+#: inc/framework/widgets/front-facts.php:84
+msgid "Fourth fact name"
+msgstr "4つ目のデータ名"
+
+#: inc/framework/widgets/front-facts.php:89
+msgid "Fourth fact value"
+msgstr "4つ目のデータ内容"
+
+#: inc/framework/widgets/front-facts.php:94
+msgid "Fourth fact icon"
+msgstr "4つ目のデータ用アイコン"
+
+#: inc/framework/widgets/front-posts.php:11
+msgid "Show the latest news from your blog."
+msgstr "ブログの最新ニュースを表示します。"
+
+#: inc/framework/widgets/front-posts.php:28
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "カテゴリーのスラッグを入力するか、空白にしてすべてのカテゴリーの投稿を表示します。"
+
+#: inc/framework/widgets/front-clients.php:30
+#: inc/framework/widgets/front-employees.php:29
+#: inc/framework/widgets/front-facts.php:30
+#: inc/framework/widgets/front-posts.php:24
+#: inc/framework/widgets/front-projects.php:30
+#: inc/framework/widgets/front-services.php:29
+#: inc/framework/widgets/front-skills.php:27
+#: inc/framework/widgets/front-testimonials.php:30
+#: inc/framework/widgets/video-widget.php:17
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/framework/widget-options.php:54 inc/framework/widget-options.php:116
+msgid "Full Width"
+msgstr "全幅"
+
+#: inc/customizer.php:475
+msgid "H6 font size"
+msgstr "H6 文字サイズ"
+
+#: inc/customizer.php:495
+msgid "Body font size"
+msgstr "全体の文字サイズ"
+
+#: inc/customizer.php:748
+msgid "Primary color"
+msgstr "メインカラー"
+
+#: inc/customizer.php:807
+msgid "Menu background"
+msgstr "メニュー背景"
+
+#: inc/customizer.php:827
+msgid "Body text"
+msgstr "全体のテキスト"
+
+#: inc/customizer.php:848
+msgid "Footer background"
+msgstr "フッターの背景"
+
+#: inc/customizer.php:354 inc/customizer.php:788
+msgid "Site description"
+msgstr "キャッチフレーズ"
+
+#: inc/customizer.php:374
+msgid "H1 font size"
+msgstr "H1 文字サイズ"
+
+#: inc/customizer.php:394
+msgid "H2 font size"
+msgstr "H2 文字サイズ"
+
+#: inc/customizer.php:415
+msgid "H3 font size"
+msgstr "H3 文字サイズ"
+
+#: inc/customizer.php:435
+msgid "H4 font size"
+msgstr "H4 文字サイズ"
+
+#: inc/customizer.php:455
+msgid "H5 font size"
+msgstr "H5 文字サイズ"
+
+#: inc/customizer.php:334 inc/customizer.php:768
+msgid "Site title"
+msgstr "サイトタイトル"
+
+#: inc/customizer.php:628
+msgid "Three"
+msgstr "3"
+
+#: inc/customizer.php:245
+msgid "Fonts"
+msgstr "フォント"
+
+#: inc/customizer.php:626
+msgid "One"
+msgstr "1"
+
+#: inc/customizer.php:627
+msgid "Two"
+msgstr "2"
+
+#: inc/customizer.php:622
+msgid "Footer widget area"
+msgstr "フッターウィジェットエリア"
+
+#: functions.php:54 inc/customizer.php:607
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer.php:529
+msgid "Full width (no sidebar)"
+msgstr "全幅 (サイドバーなし)"
+
+#: inc/customizer.php:545
+msgid "Full width single posts?"
+msgstr "個別投稿ページを全幅にする。"
+
+#: inc/customizer.php:562
+msgid "Excerpt length"
+msgstr "抜粋の長さ"
+
+#: inc/customizer.php:524
+msgid "Blog layout"
+msgstr "ブログレイアウト"
+
+#: inc/customizer.php:508
+msgid "Blog options"
+msgstr "ブログ設定"
+
+#: inc/customizer.php:214
+msgid "Static"
+msgstr "標準"
+
+#: inc/customizer.php:235
+msgid "Inline"
+msgstr "インライン"
+
+#: inc/customizer.php:192 inc/customizer.php:232
+msgid "Menu style"
+msgstr "メニュースタイル"
+
+#: inc/customizer.php:210
+msgid "Sticky menu"
+msgstr "メニューの固定"
+
+#: inc/customizer.php:78
+msgid "Site header type"
+msgstr "サイトヘッダーの種類"
+
+#: inc/customizer.php:80
+msgid "Select the header type for all pages except the front page"
+msgstr "フロントページを除く全てのページのヘッダーの種類を選択"
+
+#: inc/customizer.php:56
+msgid "Front page header type"
+msgstr "フロントページのヘッダー種類"
+
+#: inc/customizer.php:60 inc/customizer.php:82
+msgid "Image"
+msgstr "画像"
+
+#: inc/customizer.php:32
+msgid "Header area"
+msgstr "ヘッダーエリア"
+
+#: inc/customizer.php:38
+msgid "Header type"
+msgstr "ヘッダーの種類"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:146
+msgid "Footer "
+msgstr "フッター"
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:440
+msgid "Theme: %2$s by %1$s."
+msgstr "テーマ: %2$s by %1$s."
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここにはなにもないようです。下記のリンクまたは検索を試してみてください。"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#: inc/framework/widget-options.php:55
+msgid "1/2 Width"
+msgstr "1/2 幅"
+
+#: inc/framework/widget-options.php:56
+msgid "1/3 Width"
+msgstr "1/3 幅"
+
+#: inc/framework/widget-options.php:50
+msgid "Widget width:"
+msgstr "ウィジェット幅:"
+
+#: inc/framework/widget-options.php:43
+msgid "Text color"
+msgstr "テキスト色"
+
+#: inc/framework/widget-options.php:41
+msgid "Background color"
+msgstr "背景色"
+
+#: inc/framework/widget-options.php:47
+msgid "Background image URL"
+msgstr "背景画像 URL"
+
+#: inc/framework/widget-options.php:45
+msgid "Widget title color"
+msgstr "ウィジェットタイトル色"
+
+#: inc/framework/widgets/front-clients.php:12
+msgid "Astrid FP: Clients"
+msgstr "Astrid FP: クライアント"
+
+#: inc/framework/widgets/front-projects.php:12
+msgid "Astrid FP: Projects"
+msgstr "Astrid FP: プロジェクト"
+
+#: inc/framework/widgets/front-services.php:12
+msgid "Astrid FP: Services"
+msgstr "Astrid FP: サービス"
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "メイン"
+
+#: functions.php:436
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: functions.php:437
+msgid "Powered by %s"
+msgstr "Powered by %s"
+
+#: inc/customizer.php:13
+msgid "Site branding"
+msgstr "サイトブランディング"
+
+#: inc/customizer.php:528
+msgid "List"
+msgstr "一覧"
+
+#: inc/customizer.php:314
+msgid "Headings font family"
+msgstr "見出しのフォントファミリー"
+
+#: inc/customizer.php:659
+msgid "Contact"
+msgstr "お問い合わせ"
+
+#: inc/customizer.php:693
+msgid "Address"
+msgstr "住所"
+
+#: inc/customizer.php:581
+msgid "Hide post meta?"
+msgstr "投稿メタを非表示"
+
+#: inc/customizer.php:710
+msgid "Email address"
+msgstr "メールアドレス"
+
+#. translators: %1$s: smiley
+#: 404.php:32
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください %1$s"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: inc/customizer.php:93 inc/customizer.php:109
+msgid "Header text"
+msgstr "ヘッダーテキスト"
+
+#: inc/customizer.php:62 inc/customizer.php:84
+msgid "Only menu"
+msgstr "メニューのみ"
+
+#: inc/customizer.php:158
+msgid "Button URL"
+msgstr "ボタン URL"
+
+#: inc/customizer.php:142
+msgid "Button text"
+msgstr "ボタンテキスト"
+
+#: inc/customizer.php:645
+msgid "Upload your footer logo"
+msgstr "フッターロゴをアップロード"
+
+#: inc/customizer.php:727
+msgid "Phone number"
+msgstr "電話番号"
+
+#: inc/framework/widget-options.php:36
+msgid "Styling"
+msgstr "スタイリング"
+
+#: inc/framework/widget-options.php:39
+msgid "Section ID"
+msgstr "セクション ID"
+
+#: inc/framework/widgets/front-posts.php:12
+msgid "Astrid FP: Latest News"
+msgstr "Astrid FP: 最新ニュース"
+
+#: inc/customizer.php:41
+msgid "Select your header type"
+msgstr "ヘッダーの種類を選択"
+
+#: inc/customizer.php:530
+msgid "Masonry (grid style)"
+msgstr "Masonry (グリッドスタイル)"
+
+#: inc/customizer.php:236
+msgid "Centered"
+msgstr "中央寄せ"
+
+#: inc/customizer.php:597
+msgid "Hide featured images?"
+msgstr "アイキャッチ画像を非表示"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: inc/customizer.php:213
+msgid "Sticky"
+msgstr "先頭に固定表示"
+
+#: inc/framework/widgets/front-projects.php:39
+msgid "The URL for your button [In case you want a button below your projects block]"
+msgstr "ボタンの URL [お客様ブロックの下にボタンを設置する場合]"
+
+#: inc/framework/widgets/front-clients.php:11
+msgid "Show a list of your clients."
+msgstr "クライアントの一覧を表示します。"
+
+#: inc/framework/widget-options.php:67
+msgid "Remove container?"
+msgstr "コンテナーを削除しますか。"
+
+#: inc/framework/widget-options.php:64
+msgid "Top/bottom padding [px]"
+msgstr "上下の余白 [px]"
+
+#: inc/framework/widget-options.php:38
+msgid "Options found in this panel apply only to this widget."
+msgstr "この画面にあるオプションは、このウィジェットにのみ適用されます。"
+
+#: inc/framework/widget-options.php:36
+msgid "Click to expand"
+msgstr "クリックして展開"
+
+#: inc/customizer.php:297
+msgid "Headings font name/style/sets"
+msgstr "見出しのフォント名/スタイル/セット"
+
+#: inc/customizer.php:280
+msgid "Body font family"
+msgstr "全体のフォントファミリー"
+
+#: inc/customizer.php:262
+msgid "Body font name/style/sets"
+msgstr "本文のフォント名/スタイル/セット"
+
+#: inc/customizer.php:247
+msgid "You can use any Google Fonts you want for the heading and/or body. See the fonts here: google.com/fonts. See the documentation if you need help with this: athemes.com/documentation/astrid"
+msgstr "見出しや本文に Google フォントを使用できます。ここでフォントを参照してください: google.com/fonts。ヘルプが必要な場合はマニュアルを参照してください: athemes.com/documentation/astrid"
+
+#: inc/customizer.php:182
+msgid "Add a header image for screen widths smaller than 1024px"
+msgstr "画面幅 1024 px 未満のヘッダー画像を追加します。"
+
+#: inc/customizer.php:178
+msgid "Small screens header image"
+msgstr "小さな画面のヘッダー画像"
+
+#: functions.php:134
+msgid "Use this widget area to build content for the page: "
+msgstr "このエリアのウィジェットを使用して、ページのコンテンツを構築: "
+
+#: inc/framework/widgets/front-projects.php:11
+msgid "Show off your latest projects."
+msgstr "最新のプロジェクトを披露します。"
+
+#: inc/customizer.php:126
+msgid "Header small text"
+msgstr "ヘッダーの小テキスト"
+
+#: inc/framework/widgets/front-projects.php:142
+msgid "See all our projects"
+msgstr "プロジェクトをすべて表示"
+
+#: inc/framework/widgets/front-projects.php:41
+msgid "The text for the button [Defaults to <em>See all our projects</em> if left empty]"
+msgstr "ボタンのテキスト [空欄の場合、デフォルトの「プロジェクトをすべて表示」になります]"
+
+#: inc/framework/widgets/front-posts.php:75
+#: inc/framework/widgets/front-posts.php:77
+msgid "See all our news"
+msgstr "ニュースをすべて表示"
+
+#: inc/framework/widgets/front-posts.php:31
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "ボタンのテキストをデフォルトの「ニュースをすべて表示」から変更したい場合はここで追加してください。"
+
+#: inc/framework/widgets/front-employees.php:40
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "ボタンのテキスト [空欄の場合、デフォルトの「スタッフをすべて表示」になります]"
+
+#: inc/framework/widgets/front-employees.php:142
+msgid "See all our employees"
+msgstr "スタッフをすべて表示"
+
+#: inc/framework/widgets/front-clients.php:139
+msgid "See all our clients"
+msgstr "クライアントをすべて表示"
+
+#: inc/framework/widgets/front-clients.php:41
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "ボタンのテキスト  [空欄の場合、デフォルトの「クライアントをすべて表示」になります]"
+
+#: inc/framework/widgets/front-employees.php:32
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "表示するスタッフ数 (-1ですべて表示):"
+
+#: inc/framework/widgets/front-employees.php:27
+msgid "Tip: to rearrange the employees order, edit each employee page and add a value in Page Attributes > Order"
+msgstr "ヒント: スタッフの順序を並べ替えるには、各スタッフのページを編集して「ページ属性 > 順序」に値を追加してください"
+
+#: inc/framework/widgets/front-services.php:27
+msgid "Tip: to rearrange the services order, edit each service page and add a value in Page Attributes > Order"
+msgstr "ヒント: サービスの順序を並べ替えるには、各サービスのページを編集して「ページ属性 > 順序」に値を追加してください"
+
+#: inc/framework/widgets/front-clients.php:28
+msgid "Tip: to rearrange the clients order, edit each client page and add a value in Page Attributes > Order"
+msgstr "ヒント: クライアントの順序を並べ替えるには、各クライアントのページを編集して「ページ属性 > 順序」に値を追加してください"
+
+#: inc/framework/widgets/front-employees.php:12
+msgid "Astrid FP: Employees"
+msgstr "Astrid FP: スタッフ"
+
+#: inc/framework/widgets/front-employees.php:11
+msgid "Show your employees"
+msgstr "スタッフを表示する"
+
+#: inc/framework/widgets/front-facts.php:8
+msgid "Astrid FP: Facts"
+msgstr "Astrid FP: データ"
+
+#: inc/framework/widgets/front-projects.php:28
+msgid "Tip: to rearrange the projects order, edit each project page and add a value in Page Attributes > Order"
+msgstr "ヒント: プロジェクトの順序を並べ替えるには、各プロジェクトのページを編集して「ページ属性 > 順序」に値を追加してください"
+
+#: inc/framework/widgets/front-services.php:34
+msgid "Offset (number of services needs to be different than -1 for this option to work):"
+msgstr "オフセット (このオプションが動作するにはサービス数の差異が -1 以外である必要があります):"
+
+#: inc/framework/widgets/front-projects.php:35
+msgid "Offset (number of projects needs to be different than -1 for this option to work):"
+msgstr "オフセット (このオプションが動作するにはプロジェクト数の差異が -1 以外である必要があります):"
+
+#: inc/framework/widgets/front-employees.php:34
+msgid "Offset (number of employees needs to be different than -1 for this option to work):"
+msgstr "オフセット (このオプションが動作するにはスタッフ数の差異が -1 以外である必要があります):"
+
+#: inc/framework/widgets/front-clients.php:35
+msgid "Offset (number of clients needs to be different than -1 for this option to work):"
+msgstr "オフセット (このオプションが動作するにはクライアント数の差異が -1 以外である必要があります):"
+
+#: inc/framework/widgets/front-projects.php:27
+msgid "This widget displays all pages that have the Single Project page template assigned to them."
+msgstr "このウィジェットは、個別プロジェクトページテンプレートが割り当てられているすべてのページを表示します。"
+
+#: inc/framework/widgets/front-employees.php:26
+msgid "This widget displays all pages that have the Single Employee page template assigned to them."
+msgstr "このウィジェットは、個別スタッフページのテンプレートが割り当てられているすべてのページを表示します。"
+
+#: inc/framework/widgets/front-clients.php:27
+msgid "This widget displays all pages that have the Client Service page template assigned to them."
+msgstr "このウィジェットは、クライアントサービスページのテンプレートが割り当てられているすべてのページを表示します。"
+
+#: inc/framework/widgets/front-services.php:26
+msgid "This widget displays all pages that have the Single Service page template assigned to them."
+msgstr "このウィジェットは、個別サービスページのテンプレートが割り当てられているすべてのページを表示します。"
+
+#: inc/framework/widgets/front-employees.php:38
+msgid "The URL for your button [In case you want a button below your employees block]"
+msgstr "ボタンの URL [スタッフブロックの下にボタンを設置する場合]"
+
+#: inc/framework/widgets/front-clients.php:39
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "ボタンの URL [クライアントブロックの下にボタンを設置する場合]"
+
+#: inc/framework/widgets/front-clients.php:33
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "表示するクライアントの数 (-1 ですべて表示);"
+
+#: inc/framework/widgets/front-clients.php:37
+#: inc/framework/widgets/front-employees.php:36
+#: inc/framework/widgets/front-projects.php:37
+#: inc/framework/widgets/front-services.php:36
+#: inc/framework/widgets/front-testimonials.php:37
+msgid "Page IDs to display in this widget (separated by commas, example: 14,810,220). Note: you can find the page ID in the URL bar while editing your page."
+msgstr "このウィジェットに表示するページの ID (カンマ区切り、例: 14,810,220) 。注: ページ ID を見つけるにはページ編集中の URL バーをご覧ください。"
+
+#: inc/customizer.php:677
+msgid "Activate the footer contact and logo area?"
+msgstr "フッターの連絡先とロゴエリアを有効化しますか ?"
+
+#: inc/customizer.php:624
+msgid "Choose the number of widget areas in the footer, then go to Appearance > Widgets and add your widgets."
+msgstr "フッター内のウィジェットエリアの数を選択し、「外観」>「ウィジェット」に移動してウィジェットを追加してください。"
+
+#: inc/customizer.php:58
+msgid "Select the header type for your front page"
+msgstr "フロントページのヘッダーの種類を選択"
+
+#. Author of the plugin/theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://athemes.com"
+msgstr "http://athemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://athemes.com/theme/astrid"
+msgstr "http://athemes.com/theme/astrid"

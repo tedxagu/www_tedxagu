@@ -1,0 +1,7 @@
+<table id="mainspytab"><thead><tr><th colspan='2'>titre</th></tr></thead>
+<tbody><tr><td>élément1.0</td><td>élément2.0</td></tr>
+	<tr><td>élément1.1</td><td>élément2.1</td></tr>
+	<tr><td>élément1.2</td><td>élément2.2</td></tr>
+</tbody></table>
+
+#mainspytab tr td:first-child{ width:20%;}
